@@ -1,3 +1,12 @@
+# Projeto desenvolvido para o Bootcamp Gen AI E2.
+#
+# Durante o desenvolvimento deste projeto foi utilizado o ChatGPT como apoio para:
+# - estruturação da solução;
+# - geração e revisão de código Python;
+# - criação da interface em Streamlit;
+# - documentação do projeto;
+# - otimização da lógica da aplicação.
+
 import streamlit as st
 
 import time
